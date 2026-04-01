@@ -18,20 +18,9 @@ This project demonstrates the integration of **IoT + Edge AI + Agriculture** to 
 ---
 
 ## ⚙️ System Architecture
-
-Sensors (Soil + DHT11)
-↓
-Raspberry Pi (Edge Device)
-↓
-Feature Engineering (Dry Rate, Time)
-↓
-Random Forest Models
-↓
-Decision Engine
-↓
-Pump + Fan Control (Relay)
-↓
-Cloud Logging (ThingSpeak)
+<p align="center">
+  <img src="assets/i4.png" width="600"/>
+</p>
 
 ---
 
@@ -77,7 +66,7 @@ Refer to Random Forest training code from this repository
 - Power Supply
 
 ---
----
+
 
 ## Raspberry Pi OS Specifications
 <p align="center">
@@ -85,15 +74,12 @@ Refer to Random Forest training code from this repository
 </p>
 
 ---
----
 ## Raspberry Pi Hardware Specifications
 <p align="center">
   <img src="assets/i2.png" width="700"/>
 </p>
 
 
-
----
 
 
 ---
