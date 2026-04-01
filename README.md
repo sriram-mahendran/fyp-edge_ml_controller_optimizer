@@ -79,14 +79,14 @@ Refer to Random Forest training code from this repository
 ---
 ---
 
-##Raspberry Pi OS Specifications
+## Raspberry Pi OS Specifications
 <p align="center">
   <img src="assets/i1.png" width="700"/>
 </p>
 
 ---
 ---
-##Raspberry Pi Hardware Specifications
+## Raspberry Pi Hardware Specifications
 <p align="center">
   <img src="assets/i2.png" width="700"/>
 </p>
