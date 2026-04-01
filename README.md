@@ -33,6 +33,7 @@ Pump + Fan Control (Relay)
 ↓
 Cloud Logging (ThingSpeak)
 
+---
 
 ## ThingSpeak Platform Dashboard of Real-Time Data Logging
 <p align="center">
@@ -75,17 +76,21 @@ Refer to Random Forest training code from this repository
 - Fan
 - Power Supply
 
+---
+---
 
 ##Raspberry Pi OS Specifications
 <p align="center">
   <img src="assets/i1.png" width="700"/>
 </p>
 
-
+---
+---
 ##Raspberry Pi Hardware Specifications
 <p align="center">
   <img src="assets/i2.png" width="700"/>
 </p>
+
 
 
 ---
